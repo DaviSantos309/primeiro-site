@@ -13,3 +13,14 @@
         #JavaScript{
             color: rgb(221, 11, 193);
         }
+
+
+        #CURTIDAS{
+            background-color: brown; 
+            color: blue;
+            padding: 5px 10px 5px 10px;
+            border: 2px solid palegoldenrod;
+            border-radius: 12px;
+            
+
+        }
